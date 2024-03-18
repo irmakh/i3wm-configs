@@ -1,4 +1,4 @@
-# endevaouros
+# linux i3wm configuration
 i3wm installation configuration dirty version.
 
 ![Example Desktop](https://github.com/irmakh/endevaouros/blob/main/example1.png?raw=true)
